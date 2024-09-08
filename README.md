@@ -27,7 +27,7 @@ This project was developed as part of the "Engineering Exploration & Practice" c
 - [Prerequisites](#prerequisites)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [How to Use the Project](#how-to-use-the-project)
-- [Screenshots/Media](#screenshotsmedia)
+- [Media](#media)
 - [Future Improvements](#future-improvements)
 - [How to Contribute](#how-to-contribute)
 - [Credits](#credits)
