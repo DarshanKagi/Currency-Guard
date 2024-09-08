@@ -67,10 +67,9 @@ This project was developed as part of the "Engineering Exploration & Practice" c
 3. Based on the note's value, the servo motor will dispense the corresponding number of coins.
 4. The system resets and is ready for the next transaction.
 
-## Screenshots/Media
+## Media
 
 [Video Explanation and Demonstration](https://drive.google.com/file/d/1b9Qj2hB1eEeSLAoiY3UMlU-2s82NO1-2/view?usp=drive_link)  
-[Documentation - Coin Guard.pdf](https://github.com/user-attachments/files/16921629/Coin.Guard.pdf)
 
 ## Future Improvements
 
